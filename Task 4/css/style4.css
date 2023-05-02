@@ -1,0 +1,32 @@
+.container{
+  width: 500px;
+  border: 3px solid black;
+  margin: auto;
+  text-align: center;
+}
+body{
+    margin-top: 70px;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+}
+
+.bir{
+  background-color: blue;
+  position: relative;
+  right: 60px;
+}
+
+.iki{
+  background-color: red;
+}
+
+.uc{
+  background-color: green;
+}
+
+.dord{
+  background-color: aqua;
+}
